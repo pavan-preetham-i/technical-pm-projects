@@ -1,5 +1,11 @@
-<<<<<<< HEAD
-"# Technical PM Projects" 
-=======
-# technical-pm-projects
->>>>>>> e77f3a5d214585e4ebd83e9f3be35e36227d8c49
+# Technical PM Projects
+
+This repository documents my journey to becoming a Technical AI Product Manager.
+
+## Learning Journal
+
+Daily notes, learnings, and reflections.
+
+## Roadmap
+
+My 12-month technical learning roadmap.
